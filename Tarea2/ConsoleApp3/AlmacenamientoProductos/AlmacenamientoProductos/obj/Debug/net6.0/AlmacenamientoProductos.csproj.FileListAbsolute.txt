@@ -1,0 +1,15 @@
+C:\Users\alan_\source\repos\AlmacenamientoProductos\AlmacenamientoProductos\bin\Debug\net6.0\AlmacenamientoProductos.exe
+C:\Users\alan_\source\repos\AlmacenamientoProductos\AlmacenamientoProductos\bin\Debug\net6.0\AlmacenamientoProductos.deps.json
+C:\Users\alan_\source\repos\AlmacenamientoProductos\AlmacenamientoProductos\bin\Debug\net6.0\AlmacenamientoProductos.runtimeconfig.json
+C:\Users\alan_\source\repos\AlmacenamientoProductos\AlmacenamientoProductos\bin\Debug\net6.0\AlmacenamientoProductos.dll
+C:\Users\alan_\source\repos\AlmacenamientoProductos\AlmacenamientoProductos\bin\Debug\net6.0\ref\AlmacenamientoProductos.dll
+C:\Users\alan_\source\repos\AlmacenamientoProductos\AlmacenamientoProductos\bin\Debug\net6.0\AlmacenamientoProductos.pdb
+C:\Users\alan_\source\repos\AlmacenamientoProductos\AlmacenamientoProductos\obj\Debug\net6.0\AlmacenamientoProductos.csproj.AssemblyReference.cache
+C:\Users\alan_\source\repos\AlmacenamientoProductos\AlmacenamientoProductos\obj\Debug\net6.0\AlmacenamientoProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan_\source\repos\AlmacenamientoProductos\AlmacenamientoProductos\obj\Debug\net6.0\AlmacenamientoProductos.AssemblyInfoInputs.cache
+C:\Users\alan_\source\repos\AlmacenamientoProductos\AlmacenamientoProductos\obj\Debug\net6.0\AlmacenamientoProductos.AssemblyInfo.cs
+C:\Users\alan_\source\repos\AlmacenamientoProductos\AlmacenamientoProductos\obj\Debug\net6.0\AlmacenamientoProductos.csproj.CoreCompileInputs.cache
+C:\Users\alan_\source\repos\AlmacenamientoProductos\AlmacenamientoProductos\obj\Debug\net6.0\AlmacenamientoProductos.dll
+C:\Users\alan_\source\repos\AlmacenamientoProductos\AlmacenamientoProductos\obj\Debug\net6.0\ref\AlmacenamientoProductos.dll
+C:\Users\alan_\source\repos\AlmacenamientoProductos\AlmacenamientoProductos\obj\Debug\net6.0\AlmacenamientoProductos.pdb
+C:\Users\alan_\source\repos\AlmacenamientoProductos\AlmacenamientoProductos\obj\Debug\net6.0\AlmacenamientoProductos.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\alan_\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\AlmacenamientoPeliculas.exe
+C:\Users\alan_\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\AlmacenamientoPeliculas.deps.json
+C:\Users\alan_\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\AlmacenamientoPeliculas.runtimeconfig.json
+C:\Users\alan_\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\AlmacenamientoPeliculas.dll
+C:\Users\alan_\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ref\AlmacenamientoPeliculas.dll
+C:\Users\alan_\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\AlmacenamientoPeliculas.pdb
+C:\Users\alan_\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\AlmacenamientoPeliculas.csproj.AssemblyReference.cache
+C:\Users\alan_\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\AlmacenamientoPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan_\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\AlmacenamientoPeliculas.AssemblyInfoInputs.cache
+C:\Users\alan_\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\AlmacenamientoPeliculas.AssemblyInfo.cs
+C:\Users\alan_\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\AlmacenamientoPeliculas.csproj.CoreCompileInputs.cache
+C:\Users\alan_\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\AlmacenamientoPeliculas.dll
+C:\Users\alan_\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\AlmacenamientoPeliculas.dll
+C:\Users\alan_\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\AlmacenamientoPeliculas.pdb
+C:\Users\alan_\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\AlmacenamientoPeliculas.genruntimeconfig.cache
