@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alan_\\source\\repos\\AlmacenamientoProductos\\AlmacenamientoProductos\\AlmacenamientoProductos.csproj",
+      "projectUniqueName": "C:\\Users\\alan_\\source\\Tarea2\\ConsoleApp3\\AlmacenamientoProductos\\AlmacenamientoProductos\\AlmacenamientoProductos.csproj",
       "projectName": "AlmacenamientoProductos",
-      "projectPath": "C:\\Users\\alan_\\source\\repos\\AlmacenamientoProductos\\AlmacenamientoProductos\\AlmacenamientoProductos.csproj",
+      "projectPath": "C:\\Users\\alan_\\source\\Tarea2\\ConsoleApp3\\AlmacenamientoProductos\\AlmacenamientoProductos\\AlmacenamientoProductos.csproj",
       "packagesPath": "C:\\Users\\alan_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alan_\\source\\repos\\AlmacenamientoProductos\\AlmacenamientoProductos\\obj\\",
+      "outputPath": "C:\\Users\\alan_\\source\\Tarea2\\ConsoleApp3\\AlmacenamientoProductos\\AlmacenamientoProductos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
